@@ -1,4 +1,4 @@
-Title-Fetch stored data from one file to other.
+Fetch stored data from one file to other.
 
 Description-  In this there is a JS file named as Filesystem.js which is used to ferch the stored data from other html file 
 named as calculator.html. In order to fetch the data, fs module is loaded using the require() function. In the require 
